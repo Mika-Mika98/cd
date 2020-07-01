@@ -1,0 +1,14 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1206px) {
+    
+    h1{
+        display: flex;
+        justify-content: center;
+        font-size:43px;
+        align-items: center;
+    }
+}
